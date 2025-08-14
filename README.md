@@ -30,14 +30,13 @@ Kullanıcıların fragman izleyebileceği, yeni nesil film önerileri alabilece�
 > Bu proje aktif olarak geliştirilmektedir.  
 > Henüz bir API bağlantısı veya canlı veri kaynağı bulunmamakta, ancak bu özellikler planlanan yol haritasındadır.
 
-Gelecekte yeni sürümlerle daha fazla özellik ve iyileştirme eklenecektir.  
-Projeye katkı sağlamak istersen, fork'layabilir veya pull request gönderebilirsin. 🙌
-
 ---
 
 ## 📷 Ekran Görüntüleri
 
-*Buraya ekran görüntüleri eklenecek...*
+| Kayıt Ol Ekranı | Film Detay Ekranı |
+| --------------- | ----------------- |
+| <img src="screenshots/kayit-ol.png" width="300"/> | <img src="screenshots/rebel-moon.png" width="300"/> |
 
 ---
 
